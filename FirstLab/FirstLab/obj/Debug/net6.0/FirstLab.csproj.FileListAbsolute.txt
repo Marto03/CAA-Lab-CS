@@ -12,3 +12,17 @@ D:\САА Лаб\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\refint\FirstLab.d
 D:\САА Лаб\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.pdb
 D:\САА Лаб\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.genruntimeconfig.cache
 D:\САА Лаб\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\ref\FirstLab.dll
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.exe
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.deps.json
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.runtimeconfig.json
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.dll
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.pdb
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.AssemblyInfoInputs.cache
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.AssemblyInfo.cs
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.csproj.CoreCompileInputs.cache
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.dll
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\refint\FirstLab.dll
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.pdb
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.genruntimeconfig.cache
+D:\CAA Lab\CAA Lab C#\FirstLab\FirstLab\obj\Debug\net6.0\ref\FirstLab.dll

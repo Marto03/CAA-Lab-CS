@@ -68,11 +68,6 @@
             int c = Zad11(arr);
 
             Console.WriteLine($"The count is : {c}");
-            long x = Zad12(arr);
-            Console.WriteLine($"The production of all numbers in the array which sum of it's pair is not bigger than 120: {x}");
-
-            int y = Zad13(arr);
-            Console.WriteLine($"The count of equal numbers next to each other is: {y}");
         }
 
         
@@ -125,43 +120,4 @@
         return count;
     }
 
-    public static long Zad12(int[] arr)
-    {
-        long product = 1;
-
-        for (int i = 0; i < arr.Length - 1; i++)
-        {
-            for (int j = i + 1; j < arr.Length; j++)
-            {
-                int sum = arr[i] + arr[j];
-                if (sum <= 120)
-                {
-                    product *= (long)arr[i] * arr[j];
-                }
-            }
-        }
-        return product;
-    }
-
-    public static int Zad13(int[] arr)
-    {
-        int count = 0;
-        bool flag = false;
-        for(int i =0; i<arr.Length-1; i++)
-        {
-            if (arr[i] == arr[i + 1])
-            {
-                if(!flag)
-                {
-                    flag = true;
-                    count++;
-                }
-            }
-            else
-            {
-                flag = false;
-            }
-        }
-        return count;
-    }
 }

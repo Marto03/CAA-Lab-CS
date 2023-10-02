@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CAA Lab\\CAA Lab C#\\FirstLab\\FirstLab\\FirstLab.csproj": {}
+    "D:\\CAA Lab\\CAA Lab C#\\SecondLab\\SecondLab\\SecondLab.csproj": {}
   },
   "projects": {
-    "D:\\CAA Lab\\CAA Lab C#\\FirstLab\\FirstLab\\FirstLab.csproj": {
+    "D:\\CAA Lab\\CAA Lab C#\\SecondLab\\SecondLab\\SecondLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CAA Lab\\CAA Lab C#\\FirstLab\\FirstLab\\FirstLab.csproj",
-        "projectName": "FirstLab",
-        "projectPath": "D:\\CAA Lab\\CAA Lab C#\\FirstLab\\FirstLab\\FirstLab.csproj",
+        "projectUniqueName": "D:\\CAA Lab\\CAA Lab C#\\SecondLab\\SecondLab\\SecondLab.csproj",
+        "projectName": "SecondLab",
+        "projectPath": "D:\\CAA Lab\\CAA Lab C#\\SecondLab\\SecondLab\\SecondLab.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "D:\\CAA Lab\\CAA Lab C#\\FirstLab\\FirstLab\\obj\\",
+        "outputPath": "D:\\CAA Lab\\CAA Lab C#\\SecondLab\\SecondLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
