@@ -5,29 +5,18 @@
         int count = 0;
         int rows = arr.Length;
         int cols = arr[0].Length;
-
+        bool flag = false;
         for (int i = 0; i < rows; i++)
         {
             for (int j = 0; j < cols; j++)
             {
-                if (i == 0 || i == rows - 1 || j == 0 || j == cols - 1)
+                if (i == 0 || i == rows - 1 || j == 0 || j == cols - 1) // When one of the 4 statements is true it gets in the if statement
                 {
                     if (isPrime(arr[i][j]))
                     {
-                        Console.Write(arr[i][j] + " ");
+                        Console.Write(arr[i][j] + " "); // For checking if its working okay
                         count++;
                     }
-
-                    //if (i > 0)
-                    //{
-                    //for (int k = 1; k < Math.Max(rows, cols); k++)
-                    //{
-                    //    if (arr[i][j] % k != 0)
-                    //    {
-                    //        count++;
-                    //    }
-                    //}
-                    //}
 
                 }
             }
@@ -62,7 +51,7 @@
             {
                 arr[i] = new int[cols];
             }
-
+            // Adding numbers to the array
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < cols; j++)
@@ -80,6 +69,7 @@
                 }
             }
 
+            // Printing the array , for better understanding
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < cols; j++)
@@ -88,9 +78,9 @@
                 }
                 Console.WriteLine();
             }
-
+            Console.WriteLine("\nThe prime numbers are:");
             int count = countPerim(arr);
-            Console.WriteLine($"count = {count}");
+            Console.WriteLine($"\nCount = {count}");
         }
     }
 }
