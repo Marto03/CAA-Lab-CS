@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\FirstCourseExam",
+    "\\FirstCourseExam\\FirstCourseExam",
     "\\SecondCourseExam",
     "\\SecondCourseExam\\SecondCourseExam"
   ],
-  "SelectedNode": "\\SecondCourseExam\\SecondCourseExam\\obj",
+  "SelectedNode": "\\FirstCourseExam\\FirstCourseExam\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
